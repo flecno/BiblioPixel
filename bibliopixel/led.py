@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import colors
+from . import colors
 import time
 import math
 import font
